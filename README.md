@@ -3,7 +3,8 @@ Synergy Seekers Group Assignment
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                                    Kafka setup
+                                    
+                                 Kafka setup
 									
 paath where to install Kafka  :- C:\kafka
 
