@@ -4,7 +4,7 @@ Synergy Seekers Group Assignment
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                                     
-                                 Kafka setup
+                                         Kafka setup
 									
 paath where to install Kafka  :- C:\kafka
 
@@ -26,7 +26,7 @@ Source :- https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-w
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-                                     Order Tracking System
+                                        Order Tracking System
 									 
 Swagger Url :- 	http://localhost:8081/swagger-ui/index.html#/order-controller/placeOrder								 
 hit placeOrder request with below input Inventory Management System will receive message through Kafka , it will reflect in logs
@@ -39,7 +39,7 @@ hit placeOrder request with below input Inventory Management System will receive
 									 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-                                    Inventory Management System
+                                       Inventory Management System
 									
 Swagger Url :- http://localhost:8082/swagger-ui/index.html#/inventory-controller/getInventoryByProduct
 
